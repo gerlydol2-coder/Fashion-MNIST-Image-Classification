@@ -4,7 +4,7 @@
 1. What is the Fashion MNIST dataset?
 **The Fashion MNIST dataset is a collection of grayscale images of clothing items such as shirts, shoes, and bags. Each image is 28×28 pixels and belongs to one of 10 different classes. It is commonly used for training and testing machine learning models.**
 2. Why do we normalize image pixel values before training?
-**Image pixel values are normalized to make training faster and more stable. Keeping the values between 0 and 1 helps the model learn better and improves performance. **
+Image pixel values are normalized to make training faster and more stable. Keeping the values between 0 and 1 helps the model learn better and improves performance.
 3. List the layers used in the neural network and their functions.
 **Flatten layer – converts the image into a one-dimensional array
 Dense (hidden) layer – learns patterns and features from the data
